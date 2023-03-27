@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DzanNews.Services.Interfaces/1.0.0": {
+        "dependencies": {
+          "DzanNews.DataModel": "1.0.0"
+        },
+        "runtime": {
+          "DzanNews.Services.Interfaces.dll": {}
+        }
+      },
+      "DzanNews.DataModel/1.0.0": {
+        "runtime": {
+          "DzanNews.DataModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DzanNews.Services.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DzanNews.DataModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

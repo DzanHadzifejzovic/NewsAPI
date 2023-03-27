@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7fc5b860-d5d2-4981-973a-fffd66a96c23": {
+      "ProjectGuid": "7fc5b860-d5d2-4981-973a-fffd66a96c23",
+      "DisplayName": "DzanNews.API",
+      "ColorIndex": 0
+    },
+    "809e2bef-bc39-4f6b-8f27-a4ee6495dfa1": {
+      "ProjectGuid": "809e2bef-bc39-4f6b-8f27-a4ee6495dfa1",
+      "DisplayName": "DzanNews.API",
+      "ColorIndex": 1
+    },
+    "c0d2fb86-9c40-4f4e-91a0-3484812915f0": {
+      "ProjectGuid": "c0d2fb86-9c40-4f4e-91a0-3484812915f0",
+      "DisplayName": "DzanNews.DependencyInjection",
+      "ColorIndex": 2
+    },
+    "4611e678-0b84-44ab-9ad3-bf3083592a6f": {
+      "ProjectGuid": "4611e678-0b84-44ab-9ad3-bf3083592a6f",
+      "DisplayName": "DzanNews.BusinessLogic.Interfaces",
+      "ColorIndex": 3
+    },
+    "90bfe760-dae8-41c8-860c-5ee63e664939": {
+      "ProjectGuid": "90bfe760-dae8-41c8-860c-5ee63e664939",
+      "DisplayName": "DzanNews.BusinessLogic",
+      "ColorIndex": 4
+    },
+    "9c7d2cbc-0379-44d1-a6b0-5ed5441acaab": {
+      "ProjectGuid": "9c7d2cbc-0379-44d1-a6b0-5ed5441acaab",
+      "DisplayName": "DzanNews.BusinessModel",
+      "ColorIndex": 5
+    },
+    "1de2f11a-5266-453b-9f62-2037c74df595": {
+      "ProjectGuid": "1de2f11a-5266-453b-9f62-2037c74df595",
+      "DisplayName": "DzanNews.DataModel",
+      "ColorIndex": 6
+    },
+    "cd99ee53-bdb1-4bda-b33d-f3f5a143d7d7": {
+      "ProjectGuid": "cd99ee53-bdb1-4bda-b33d-f3f5a143d7d7",
+      "DisplayName": "DzanNews.Mapper",
+      "ColorIndex": 7
+    },
+    "ba067ba8-09f2-4331-808c-fc44342e9195": {
+      "ProjectGuid": "ba067ba8-09f2-4331-808c-fc44342e9195",
+      "DisplayName": "DzanNews.Resources",
+      "ColorIndex": 8
+    },
+    "607a8f9b-2865-47ea-b07c-0c038314b319": {
+      "ProjectGuid": "607a8f9b-2865-47ea-b07c-0c038314b319",
+      "DisplayName": "DzanNews.Services.Interfaces",
+      "ColorIndex": 9
+    },
+    "4dedf244-3384-4191-b274-b3dca37067a0": {
+      "ProjectGuid": "4dedf244-3384-4191-b274-b3dca37067a0",
+      "DisplayName": "DzanNews.Services",
+      "ColorIndex": 10
+    },
+    "c94a616e-a377-426c-b417-78ac179ad091": {
+      "ProjectGuid": "c94a616e-a377-426c-b417-78ac179ad091",
+      "DisplayName": "DzanNewsMVC",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

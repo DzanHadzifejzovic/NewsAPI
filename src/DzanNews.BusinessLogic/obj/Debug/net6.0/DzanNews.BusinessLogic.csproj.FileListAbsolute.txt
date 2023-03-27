@@ -1,0 +1,46 @@
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.BusinessLogic.deps.json
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.BusinessLogic.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\ref\DzanNews.BusinessLogic.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.BusinessLogic.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.BusinessLogic.Interfaces.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.BusinessModel.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.DataModel.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.Mapper.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.Services.Interfaces.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.BusinessLogic.Interfaces.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.Mapper.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.Services.Interfaces.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.BusinessModel.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.DataModel.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.csproj.CopyComplete
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\ref\DzanNews.BusinessLogic.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.BusinessLogic.deps.json
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.BusinessLogic.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\ref\DzanNews.BusinessLogic.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.BusinessLogic.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.BusinessLogic.Interfaces.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.BusinessModel.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.DataModel.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.Mapper.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.Services.Interfaces.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.BusinessLogic.Interfaces.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.Mapper.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.Services.Interfaces.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.BusinessModel.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\bin\Debug\net6.0\DzanNews.DataModel.pdb
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.csproj.CopyComplete
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\ref\DzanNews.BusinessLogic.dll
+C:\Users\Administrator\Desktop\IT AKADEMIJA-C#\Unity Game Development\api news from live\News\DzanNews.API\src\DzanNews.BusinessLogic\obj\Debug\net6.0\DzanNews.BusinessLogic.pdb

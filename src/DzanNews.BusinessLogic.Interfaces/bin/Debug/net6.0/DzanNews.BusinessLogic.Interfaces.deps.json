@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DzanNews.BusinessLogic.Interfaces/1.0.0": {
+        "dependencies": {
+          "DzanNews.BusinessModel": "1.0.0"
+        },
+        "runtime": {
+          "DzanNews.BusinessLogic.Interfaces.dll": {}
+        }
+      },
+      "DzanNews.BusinessModel/1.0.0": {
+        "runtime": {
+          "DzanNews.BusinessModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DzanNews.BusinessLogic.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DzanNews.BusinessModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
